@@ -1,5 +1,6 @@
 
 <div align="center">
+  
 ### 🌱 Learning on 🌱
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -14,9 +15,10 @@
 
 Project laBelup
 
-</div>
+
 📫 ssoulistic@gmail.com
 
+</div>
 
 
 <!--
