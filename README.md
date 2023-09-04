@@ -3,14 +3,10 @@
 
 <div align="center">
   
-### 🌱 Learning on 🌱
+### 🧰 Tech Stack 🧰 
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
-
-
-### 🔎 interested in 🔎
-
 <img src="https://img.shields.io/badge/googleappsscript-4285F4?style=flat&logo=googleappsscript&logoColor=white"/>
 
 ### 🔭 Working on.. 🔭
