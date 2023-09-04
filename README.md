@@ -5,9 +5,13 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/googleappsscript-4285F4?style=flat&logo=googleappsscript&logoColor=white"/>
+
 <br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssoulistic&layout=compact">
+
 <br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=ssoulistic&show_icons=true">
 
 ### 🔭 Working on.. 🔭
