@@ -4,32 +4,23 @@
 <div align="center">
 
 ### 🧰 Tech Stack 🧰 
-
+<br>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/googleappsscript-4285F4?style=flat&logo=googleappsscript&logoColor=white"/>
-
-<br>
-<br>
-<br>
-
+<br><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssoulistic&layout=compact">
-
-
+<br><br><br>
 
 ### 🔭 Working on.. 🔭
-
+<br>
 Project laBelup
-
-
-
+<br><br><br>
 
 ### 🧱 my current skill level 🧱
-
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssoulistic)](https://solved.ac/ssoulistic/)
-
-
-
+<br><br><br>
 
 📫 ssoulistic@gmail.com
 
