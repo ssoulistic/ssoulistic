@@ -24,6 +24,7 @@ Project laBelup
 
 ### 🧱 my current skill level 🧱
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssoulistic)](https://solved.ac/ssoulistic/)
 
 
 📫 ssoulistic@gmail.com
