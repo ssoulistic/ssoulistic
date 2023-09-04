@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=반갑습니다&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=667ABB&height=200&section=header&text=반갑습니다&fontSize=90" />
 
 ### 🧰 Tech Stack 🧰 
 
