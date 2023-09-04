@@ -26,6 +26,7 @@
 
 ### 🧱 my current skill level 🧱
 <br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssoulistic)](https://solved.ac/ssoulistic/)
 
 <br>
