@@ -17,7 +17,7 @@
 
 ### 🔭 Working on.. 🔭
 <br>
-Project laBelup
+**Project laBelup**
 
 <br>
 <br>
