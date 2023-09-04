@@ -1,6 +1,3 @@
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssoulistic&layout=compact"><img src="https://github-readme-stats.vercel.app/api?username=ssoulistic&show_icons=true">
-
 <div align="center">
   
 ### 🧰 Tech Stack 🧰 
@@ -12,6 +9,11 @@
 ### 🔭 Working on.. 🔭
 
 Project laBelup
+
+### 🧱 my current skill level 🧱
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssoulistic&layout=compact">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ssoulistic&show_icons=true">
 
 
 📫 ssoulistic@gmail.com
