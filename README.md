@@ -3,7 +3,7 @@
 
 <div align="center">
 
-### 🧰 Tech Stack 🧰 
+# 🧰 Tech Stack 🧰 
 <br>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
@@ -15,16 +15,16 @@
 <br>
 <br>
 
-### 🔭 Working on.. 🔭
+# 🔭 Working on.. 🔭
 <br>
 
-##### Project laBelup
+## Project laBelup
 
 <br>
 <br>
 <br>
 
-### 🧱 my current skill level 🧱
+# 🧱 my current skill level 🧱
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssoulistic)](https://solved.ac/ssoulistic/)
@@ -33,7 +33,7 @@
 <br>
 <br>
 
-📫 ssoulistic@gmail.com
+## 📫 ssoulistic@gmail.com
 
 
 
