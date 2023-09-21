@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/googleappsscript-4285F4?style=flat&logo=googleappsscript&logoColor=white"/>
+#FCC624
 <br><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssoulistic&layout=compact">
 
@@ -17,9 +18,7 @@
 
 # 🔭 Working on.. 🔭
 <br>
-
-## Project laBelup
-
+<a href="https://github.com/ssoulistic/laBelup_crawler")" target="_blank"><img src="https://img.shields.io/badge/000000?style=social&logo=Project laBelup&logoColor=FFFFFF"/></a>
 <br>
 <br>
 <br>
