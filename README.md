@@ -1,9 +1,6 @@
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=#667ABB&height=200&section=header&text=ssoulistic&fontSize=90" /></div>
-
 <div align="center">
 
-# 🧰 Tech Stack 🧰 
+  # 🐾 LEE SEOHO 🐾
 
 <br>
 <br>
@@ -16,41 +13,13 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssoulistic&layout=compact">
-
-<br>
-<br>
-
-![ssoulistic's github stats](https://github-readme-stats.vercel.app/api?username=ssoulistic&show_icons=true)
-
-<br>
-<br>
-
-# 🔭 Working on.. 🔭
-
-<br>
-<br>
-
-<a href="https://github.com/ssoulistic/laBelup_crawler" target="_blank"> Project laBelup </a>
-
-<br>
-<br>
-<br>
-
-# 🧱 my current skill level 🧱
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beendoo&layout=compact&hide_border=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssoulistic)](https://solved.ac/ssoulistic/)
 
-<br>
-<br>
+![ssoulistic's github stats](https://github-readme-stats.vercel.app/api?username=ssoulistic&show_icons=true)
 
-## 📫 ssoulistic@gmail.com
-
-<br>
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ssoulistic)](https://hits.seeyoufarm.com)                    
 </div>
 
 
