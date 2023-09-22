@@ -13,11 +13,11 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssoulistic&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssoulistic&layout=compact&hide_border=true&theme=algolia)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssoulistic)](https://solved.ac/ssoulistic/)
 
-![ssoulistic's github stats](https://github-readme-stats.vercel.app/api?username=ssoulistic&show_icons=true)
+![ssoulistic's github stats](https://github-readme-stats.vercel.app/api?username=ssoulistic&theme=algolia&show_icons=true)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssoulistic%2Fhit-counter&count_bg=%23E53B3B&title_bg=%23555555&icon=clyp.svg&icon_color=%23FFE900&title=hello+visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
