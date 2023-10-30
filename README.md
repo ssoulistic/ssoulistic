@@ -19,7 +19,6 @@
   
   ![googleappsscript](https://img.shields.io/badge/Google_Apps_Script-4285F4.svg?&style=for-the-badge&logo=googleappsscript&logoColor=white)
   ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
-  ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
   ![flask](https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
   ![amazonaws](https://img.shields.io/badge/amazon_aws_ec2-FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
   
