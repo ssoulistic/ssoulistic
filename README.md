@@ -8,8 +8,8 @@
   
 
   ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-  ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-  ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
+  ![html](https://img.shields.io/badge/html-F7DF1E.svg?&style=for-the-badge&logo=html&logoColor=white)
+  ![css](https://img.shields.io/badge/css-F7DF1E.svg?&style=for-the-badge&logo=css&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
   ![csharp](https://img.shields.io/badge/c%20sharp-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white)
   ![solidity](https://img.shields.io/badge/Solidity-363636.svg?&style=for-the-badge&logo=solidity&logoColor=white)
 
