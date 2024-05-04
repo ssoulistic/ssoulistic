@@ -5,19 +5,19 @@
 <br>
 <br>
 
-  
 
-  ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+  
   ![html](https://img.shields.io/badge/html-F7DF1E.svg?&style=for-the-badge&logo=html&logoColor=white)
-  ![css](https://img.shields.io/badge/css-F7DF1E.svg?&style=for-the-badge&logo=css&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
+  ![css](https://img.shields.io/badge/css-F7DF1E.svg?&style=for-the-badge&logo=css&logoColor=white) 
+  ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) 
+  
+  ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
   ![csharp](https://img.shields.io/badge/c%20sharp-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white)
-  ![solidity](https://img.shields.io/badge/Solidity-363636.svg?&style=for-the-badge&logo=solidity&logoColor=white)
 
   ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
   ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
   ![mariadb](https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white)
   
-  ![googleappsscript](https://img.shields.io/badge/Google_Apps_Script-4285F4.svg?&style=for-the-badge&logo=googleappsscript&logoColor=white)
   ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
   ![flask](https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
   ![amazonaws](https://img.shields.io/badge/amazon_aws_ec2-FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
