@@ -18,15 +18,16 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,aws)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,notion)](https://skillicons.dev)
 
-## Algorithm skill
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssoulistic)](https://solved.ac/ssoulistic/)
-
-
 <br>
 
-### Top Languages
+## Git Stats & Top Languages
+![ssoulistic's github stats](https://github-readme-stats.vercel.app/api?username=ssoulistic&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssoulistic&layout=compact&hide_border=true&theme=algolia)
-
+<br>
+## Algorithm skill
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssoulistic)](https://solved.ac/ssoulistic/)
+<br>
+<br>
 #### visitor
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssoulistic%2Fhit-counter&count_bg=%23E53B3B&title_bg=%23555555&icon=clyp.svg&icon_color=%23FFE900&title=hello+visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>  
