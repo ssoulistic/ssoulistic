@@ -13,7 +13,7 @@
 ## My tech Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=python,flask,cs,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,java,cs,cpp)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=linux,aws)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,notion)](https://skillicons.dev)
