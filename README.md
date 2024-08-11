@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on ... **Thanos Gem - Dynamic IP Analysis tool**
-- 🌱 I’m currently learning ... **Cloud CI/CD**
+- 🌱 I’m currently learning ... **Java & Web**
 - 🤔 I’m interested in  ... **Network security**
 - ⚡ Fun fact: ... I major in **Bio tech** and I love studying **algorithm**
  </p>
