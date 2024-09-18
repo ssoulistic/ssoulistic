@@ -3,7 +3,7 @@
 <p align="center">
 
 
-- 🔭 I’m currently working on ... **Thanos Gem - Dynamic IP Analysis tool**
+- 🔭 I’m currently working on ... **Salgu - providing benefitial information to youth**
 - 🌱 I’m currently learning ... **Java & Web**
 - 🤔 I’m interested in  ... **Network security**
 - ⚡ Fun fact: ... I major in **Bio tech** and I love studying **algorithm**
