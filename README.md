@@ -1,4 +1,4 @@
-<h1 align="center">🐾 Hi! I'm Seo Ho Lee</h1>
+<h1 align="center">🐾 Hello There!</h1>
 
 <p align="center">
 
