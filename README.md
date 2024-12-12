@@ -5,13 +5,13 @@
 <h3>I am ...</h3>
 <p>
  
-🌱 Learning ... **React**
+🌱 Learning ... **Artificial Intelligence**
 <br>
-🔭 Working on ... **Something Something**
+🔭 Working on ... **Projects**
 <br>
-🤔 Currently interested in  ... **Network Security & Artificial Intelligence**
+🤔 Currently interested in  ... **Web Development & Artificial Intelligence**
 <br>
-⚡ Fun fact: ... I major in **Bio tech**, but I enjoy studying **algorithm**
+⚡ Fun fact: ... I major in **Bio tech**, but I enjoy studying **Algorithm**
 
  </p>
 
@@ -39,8 +39,6 @@
 [![AtCoder Rating of @ssoulistic](https://atrating.baoshuo.dev/rating?username=ssoulistic&style=for-the-badge)](https://atcoder.jp/users/ssoulistic)
 <br>
 
-#### visitor
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssoulistic%2Fhit-counter&count_bg=%23E53B3B&title_bg=%23555555&icon=clyp.svg&icon_color=%23FFE900&title=hello+visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>  
 
 <!--
