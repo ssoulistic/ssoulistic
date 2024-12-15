@@ -34,14 +34,15 @@
 <br>
 ## Algorithm Level
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssoulistic)](https://solved.ac/ssoulistic/)
+
+</div>  
+
+<!--
 <br>
 <br>
 [![AtCoder Rating of @ssoulistic](https://atrating.baoshuo.dev/rating?username=ssoulistic&style=for-the-badge)](https://atcoder.jp/users/ssoulistic)
 <br>
 
-</div>  
-
-<!--
 **ssoulistic/ssoulistic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
