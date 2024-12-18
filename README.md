@@ -1,5 +1,6 @@
-<h1 align="center">🐾 Hello! 🐾</h1>
 
+<!--
+<h1 align="center">🐾 Hello! 🐾</h1>
 
 
 <h3>I am ...</h3>
@@ -14,34 +15,36 @@
 ⚡ Fun fact: ... I major in **Bio tech**, but I enjoy studying **Algorithm**
 
  </p>
+-->
+<div>
 
-<div align="center">
+## Tech Experiences
+ 
+### Front-end
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,bootstrap)](https://skillicons.dev)
 
-## My Tech Experiences
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,bootstrap)](https://skillicons.dev)
-<br>
+### Back-end
 [![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,cs,cpp)](https://skillicons.dev)
-<br>
+
+### OS, Deploy..etc
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,linux,aws)](https://skillicons.dev)
-<br>
+
+### IDE & Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,github,notion)](https://skillicons.dev)
 
-<br>
-
-## Git Stats & Top Languages
-![ssoulistic's github stats](https://github-readme-stats.vercel.app/api?username=ssoulistic&show_icons=true&theme=algolia)
+## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssoulistic&layout=compact&hide_border=true&theme=algolia)
-<br>
-## Algorithm Level
+
+## Cooperative Work Stats?
+![ssoulistic's github stats](https://github-readme-stats.vercel.app/api?username=ssoulistic&show_icons=true&theme=algolia)
+
+## Hobby
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssoulistic)](https://solved.ac/ssoulistic/)
 
+[![AtCoder Rating of @ssoulistic](https://atrating.baoshuo.dev/rating?username=ssoulistic&style=for-the-badge)](https://atcoder.jp/users/ssoulistic)
 </div>  
 
 <!--
-<br>
-<br>
-[![AtCoder Rating of @ssoulistic](https://atrating.baoshuo.dev/rating?username=ssoulistic&style=for-the-badge)](https://atcoder.jp/users/ssoulistic)
-<br>
 
 **ssoulistic/ssoulistic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
