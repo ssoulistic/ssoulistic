@@ -16,7 +16,7 @@
 
  </p>
 -->
-<div>
+<div align="center">
 
 ## Tech Experiences
  
