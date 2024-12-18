@@ -38,13 +38,16 @@
 ## Cooperative Work Stats?
 ![ssoulistic's github stats](https://github-readme-stats.vercel.app/api?username=ssoulistic&show_icons=true&theme=algolia)
 
+---
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssoulistic%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=quasar.svg&icon_color=%23E7E7E7&title=nowhere&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>  
+
+<!--
+
 ## Hobby
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssoulistic)](https://solved.ac/ssoulistic/)
 
 [![AtCoder Rating of @ssoulistic](https://atrating.baoshuo.dev/rating?username=ssoulistic&style=for-the-badge)](https://atcoder.jp/users/ssoulistic)
-</div>  
-
-<!--
 
 **ssoulistic/ssoulistic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
