@@ -35,7 +35,7 @@
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssoulistic&layout=compact&hide_border=true&theme=algolia)
 
-## Cooperative Work Stats?
+## Cooperation Stats?
 ![ssoulistic's github stats](https://github-readme-stats.vercel.app/api?username=ssoulistic&show_icons=true&theme=algolia)
 
 ---
